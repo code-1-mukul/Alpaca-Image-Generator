@@ -1,0 +1,344 @@
+body{
+  background-color: #D0D3D4 ;
+}
+
+h1{
+  margin-top: 30px;
+  margin-bottom: 70px;
+  margin-left: 200px;
+  font-size: 50px;
+  color: #000080;
+  font-family: 'Helvetica'
+}
+
+.start-img{
+  width: 480px;
+  height: 440px;
+  float: left;
+  margin-left: 200px;
+  padding-right: 120px;
+}
+
+h2{
+  font-size: 23px;
+  color: black;
+  font-family: Helvetica;
+}
+
+.button-set-1{
+  margin-bottom: 7px;
+}
+
+.button-set-2{
+  margin-bottom: 7px;
+}
+
+.button-set-hair1{
+  margin-bottom: 7px;
+  display: none;
+}
+.button-set-hair2{
+  margin-bottom: 7px;
+  display: none;
+}
+
+.button-set-eye1{
+  margin-bottom: 7px;
+  display: none;
+}
+.button-set-eye2{
+  margin-bottom: 7px;
+  display: none;
+}
+
+.button-set-ear1{
+  margin-bottom: 7px;
+  display: none;
+}
+
+.button-set-mouth1{
+  margin-bottom: 7px;
+  display: none;
+}
+
+.button-set-mouth2{
+  margin-bottom: 7px;
+  display: none;
+}
+
+.button-set-neck1{
+  margin-bottom: 7px;
+  display: none;
+}
+
+.button-set-leg1{
+  margin-bottom: 7px;
+  display: none;
+}
+
+.button-set-leg2{
+  margin-bottom: 7px;
+  display: none;
+}
+
+.button-set-acc1{
+  margin-bottom: 7px;
+  display: none;
+}
+
+.button-set-acc2{
+  margin-bottom: 7px;
+  display: none;
+}
+
+.button-set-back1{
+  margin-bottom: 7px;
+  display: none;
+}
+
+.button-set-back2{
+  margin-bottom: 7px;
+  display: none;
+}
+
+.btn{
+  width: 100px;
+  height: 50px;
+  margin-right: 10px;
+  border-radius: 30%;
+  background-color: #D0D3D4;
+  color: #033E3E;
+  text-align: center;
+  border-color: blue;
+}
+
+.btn:hover{
+  background-color: blue;
+  color: white;
+}
+
+.btn1{
+  width: 156px;
+  height: 50px;
+  margin-right: 10px;
+  border-radius: 30%;
+  background-color: #D0D3D4;
+  color: #045F5F;
+  text-align: center;
+  border-color: blue;
+}
+
+.btn1:hover{
+  background-color: blue;
+  color: white;
+}
+
+.start-ear-img{
+  width: 25%;
+  height: 30%;
+  position: absolute;
+  left: 250px;
+  top: 170px;
+}
+
+#front-ear{
+  display: none;
+}
+
+#back-ear{
+  display: none;
+}
+
+.start-hair-img{
+  width: 30%;
+  height: 40%;
+  position: absolute;
+  left: 181px;
+  top: 150px;
+}
+
+#curls-hair{
+  height: 30%;
+  top: 185px;
+  left: 205px;
+  display: none;
+}
+
+#elegant-hair{
+  left: 400px;
+  width: 17%;
+  display: none;
+}
+
+#fancy-hair{
+  left: 220px;
+  display: none;
+}
+
+#quiff-hair{
+  left: 202px;
+  display: none;
+}
+
+#short-hair{
+  left: 170px;
+}
+
+.start-neck-img{
+  width: 27%;
+  height: 60%;
+  position: absolute;
+  left: 245px;
+  top: 122px;
+}
+
+#bendback-neck{
+  display: none;
+}
+
+
+
+#thick-neck{
+  display: none;
+}
+
+.start-eye-img{
+  width: 30%;
+  height: 35%;
+  position: absolute;
+  left: 230px;
+  top: 200px;
+}
+
+#angry-eye{
+  display: none;
+}
+
+#naughty-eye{
+  display: none;
+}
+
+#panda-eye{
+  display: none;
+}
+
+#smart-eye{
+  display: none;
+}
+
+#star-eye{
+  display: none;
+}
+.start-nose-img{
+  width: 25%;
+  height: 60%;
+  position: absolute;
+  left: 250px;
+  top: 100px;
+}
+
+.start-mouth-img{
+  width: 25%;
+  height: 30%;
+  position: absolute;
+  left: 250px;
+  top: 265px;
+}
+
+#astonished-mouth{
+  display: none;
+}
+
+#eating-mouth{
+  display: none;
+}
+
+#laugh-mouth{
+  display: none;
+}
+
+#tongue-mouth{
+  display: none;
+}
+
+.start-leg-img{
+  width: 25%;
+  height: 56%;
+  position: absolute;
+  left: 250px;
+  top: 154px;
+}
+
+#bubbletea-leg{
+  display: none;
+}
+
+#cookie-leg{
+  display: none;
+}
+
+#gaming-leg{
+  display: none;
+}
+
+#lfront-leg{
+  display: none;
+}
+
+#lback-leg{
+  display: none;
+}
+
+#bang-hair{
+  display: none;
+  left: 220px;
+}
+
+.acc{
+  width: 25%;
+  height: 30%;
+  position: absolute;
+  left: 255px;
+  top: 155px;
+}
+
+#earing-acc{
+  display: none;
+}
+
+#flower-acc{
+  display: none;
+}
+
+#glasses-acc{
+  top: 250px;
+  display: none;
+}
+
+#headphone-acc{
+  display: none;
+}
+
+#darkblue-background{
+  display: none;
+}
+
+#green-background{
+  display: none;
+}
+
+#yellow-background{
+  display: none;
+}
+
+#red-background{
+  display: none;
+}
+
+#grey-background{
+  display: none;
+}
+
+#blue-background{
+  display: none;
+}
